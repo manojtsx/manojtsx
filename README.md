@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @remon343
-- 👀 I’m interested in web developing.
-- 🌱 I’m currently learning frontend web developing.
+- 👀 I’m interested to be a web and software developer.
+- 🌱 I’m currently learning TAILWIND CSS and JAVA framework SWING.
 - 💞️ I’m looking to collaborate on frontend projects.
 - 📫 How to reach me? Call +9779816683613
 
