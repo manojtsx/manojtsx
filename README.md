@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @remon343
 - 👀 I’m interested to be a web and software developer.
-- 🌱 I’m currently learning Node..js and JAVA framework SWING.
+- 🌱 I’m currently learning React.js and JAVA framework SWING.
 - 💞️ I’m looking to collaborate on frontend projects with Tailwind CSS and Vanilla JS.
 - 📫 How to reach me? Call +9779816683613.
 - 💥 I'm free to explode my skills. 
