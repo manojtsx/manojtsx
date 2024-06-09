@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on GyanShristi- A School CMS based on Voice Recognition and Text-to-Speech.<br>🧑‍🤝‍🧑 I'm looking to collaborate on nextjs-simple-to-advanced-projects.<br>🤝 I'm looking for help with learning NextJS.<br>🌱 I'm currently learning NextJS.<br>☁️ Ask me about MERN Stack Development.<br>⚡ Fun fact: I'm lazy.
+🔭 I'm currently working on GyanShristi- A School CMS based on Voice Recognition and Text-to-Speech.<br>🧑‍🤝‍🧑 I'm looking to collaborate on mern stack projects.<br>🤝 I'm looking for help with learning NextJS.<br>🌱 I'm currently learning NextJS.<br>☁️ Ask me about MERN Stack Development.<br>⚡ Fun fact: I'm lazy.
 
 
 ## 🌐 Socials:
