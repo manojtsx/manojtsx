@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on GyanShristi- A School CMS based on Voice Recognition and Text-to-Speech.<br>🧑‍🤝‍🧑 I'm looking to collaborate on mern stack projects.<br>🤝 I'm looking for help with learning NextJS.<br>🌱 I'm currently learning NextJS.<br>☁️ Ask me about MERN Stack Development.<br>⚡ Fun fact: I'm lazy.
+🔭 I'm currently working as a Full Stack Developer at [InPro Academy](https://inproacademy.com.np/) .<br>🧑‍🤝‍🧑 I'm working on tech stacks such as [NextJS](https://nextjs.org/), [NestJS](https://nestjs.com/), [PrismaORM](https://www.prisma.io/), [GraphQL](https://graphql.org/), [PostgreSQL](https://www.postgresql.org/).<br>🤝 I have also worked with [MongoDB](https://www.mongodb.com/), [ExpressJS](https://expressjs.com/), [ReactJS](https://react.dev/), [NodeJS](https://nodejs.org/en).<br>🌱 I'm currently learning [React Native](https://reactnative.dev/).br>☁️ Ask me about questions specific to my tech stacks. <br>⚡ Fun fact: I'm lazy and curious at the same time.
 
 
 ## 🌐 Socials:
